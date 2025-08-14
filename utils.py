@@ -57,4 +57,5 @@ def generar_reporte(resumen, ruta_salida):
         resumen["mensaje"] = "Umbral superado, aplicar descuento corporativo 5% en próxima compra"
     with open(ruta_salida, "w", encoding="utf-8") as f:
         json.dump(resumen, f, indent=4, ensure_ascii=False)
-    print("Reporte generado en", ruta_salida)
+    print("Archivo de reporte listo en", ruta_salida)
+
