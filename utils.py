@@ -1,7 +1,7 @@
 import csv
 from datetime import datetime
 import json
-
+# Función para cargar compras desde CSV
 def cargar_compras(ruta):
     compras_validas = []
     try:
