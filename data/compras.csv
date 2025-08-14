@@ -1,0 +1,7 @@
+cliente,fecha,producto,cantidad,precio_unitario
+A,2025-07-01,laptop,1,3500000
+B,2025-07-02,mouse,3,45000
+A,2025-07-05,monitor,2,780000
+C,2025-07-06,teclado,1,120000
+B,2025-07-06,laptop,1,3200000
+D,2025-07-07,monitor,1,800000
