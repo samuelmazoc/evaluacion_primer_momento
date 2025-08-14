@@ -1,8 +1,8 @@
 # Proyecto de Ventas
 
 ## Integrantes
-- UsuarioGitHub1
-- UsuarioGitHub2
+- samuelmazoc
+- LINA-1205
 
 ## Descripción
 Este proyecto carga un archivo CSV con compras, calcula estadísticas y genera un reporte JSON.
